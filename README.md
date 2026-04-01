@@ -8,5 +8,4 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=avanibhartiya)](https://github.com/anuraghazra/github-readme-stats)
+(https://github-readme-stats.vercel.app/api?username=avanibhartiya)
