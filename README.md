@@ -8,4 +8,5 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
-(https://github-readme-stats.vercel.app/api?username=avanibhartiya)
+### My Github Stats:
+![Avani's github streak](https://streak-stats.demolab.com?user=avanibhartiya&theme=dark&mode=weekly)
