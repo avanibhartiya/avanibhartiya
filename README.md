@@ -9,4 +9,4 @@
 <p align="left">
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avanibhartiya&show_icons=true&locale=en" alt="avanibhartiya" /></p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=avanibhartiya)](https://github.com/anuraghazra/github-readme-stats)
