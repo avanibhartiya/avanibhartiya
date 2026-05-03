@@ -46,7 +46,4 @@ python • data • javascript • html • css • react • git • github •
 ---
 ##  GitHub Stats
 ![GitHub Streak](https://streak-stats.demolab.com/?user=avanibhartiya&theme=tokyonight)
-
-![Your Stats](https://github-readme-stats.vercel.app/api?username=avanibhartiya&show_icons=true&theme=tokyonight)
-
 ---
