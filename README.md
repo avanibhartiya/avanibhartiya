@@ -27,7 +27,7 @@ python • data • javascript • html • css • react • git • github •
 * Dincharya-Your AI Planning Companion : Intelligent Scheduling and Planning Companion [https://github.com/hemant1904/dincharya]
 * Krushimitra- Crop Recommendation and Prediction : Machine Leaning Model for Farmers [https://github.com/hemant1904/hemant1904-Krushimitra-Crop-Prediction-Analysis]
 * Swasthya Seva- AI driven Public Health Chatbot: Smart India Hackathon Project
-* CA Sahaayak: One stop solution for all CA related calculations
+* CA Sahaayak: One stop solution for all CA related calculations [https://github.com/avanibhartiya/ca_sahaayak]
 ---
 
 ### random
