@@ -2,14 +2,14 @@
 
 i like building things, breaking them, and then figuring out how they actually work.
 
-currently a third year engineering student, trying to get better one project at a time.
+currently a fourth year engineering student, trying to get better one project at a time.
 
 ---
 
 ### what i'm doing
 
 * learning: data analytics 
-* working on: website development for a NGO
+* working on: Learning Management System for an organisation
 * exploring: web dev / data science / ai / dbms
 
 ---
